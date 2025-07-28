@@ -25,11 +25,9 @@ The process typically involves:
 3.Comparison & Reporting: Differences between current file states and the baseline are recorded and reported, often with classifications: modified, added, or deleted.
 4.Alerting & Logging: The tool logs all detected changes and can alert system administrators through email, SMS, or integration with SIEM systems.
 
-*What’s Used*:
+*OUTPUT*:
 
-os – To go through files and folders.
-hashlib – To create SHA-256 hashes.
-json – To save and load the hashes in a file (hashes.json).
+<img width="1466" height="644" alt="Image" src="https://github.com/user-attachments/assets/8b22b01c-8081-4e54-a1f9-dcde3d8072be" />
 
 *Conclusion*:
 
