@@ -1,10 +1,10 @@
 # File-integrity-checker
-*COMPANY*:CODTECH IT SOLUTIONS
-*NAME*:P.KAVYANJALI
-*INTERN ID*:CT06DZ757
-*DOMAIN*:CYBER SECURITY & ETHICAL HACKING
-*DURATION*:6 WEEKS
-*MENTOR*:NEELA SANTHOSH KUMAR
+*COMPANY*: CODTECH IT SOLUTIONS
+*NAME*: P.KAVYANJALI
+*INTERN ID*: CT06DZ757
+*DOMAIN*: CYBER SECURITY & ETHICAL HACKING
+*DURATION*: 6 WEEKS
+*MENTOR*: NEELA SANTHOSH KUMAR
 
 *DESCRIPTION*:
 A File Integrity Checker (FIC) is a security tool used to monitor and verify the integrity of files and directories on a computer system. Its primary function is to detect unauthorized changes, whether accidental or malicious, to critical system files, configuration files, or application data. The checker does this by comparing the current state of files against a known good baseline and reporting any modifications, additions, or deletions.It ensures the integrity and security of files by tracking any modifications, additions, or deletions over time.
